@@ -1,0 +1,16 @@
+D:\ProfitDaily\Daily\Daily\bin\Debug\net7.0-windows\Daily.exe
+D:\ProfitDaily\Daily\Daily\bin\Debug\net7.0-windows\Daily.deps.json
+D:\ProfitDaily\Daily\Daily\bin\Debug\net7.0-windows\Daily.runtimeconfig.json
+D:\ProfitDaily\Daily\Daily\bin\Debug\net7.0-windows\Daily.dll
+D:\ProfitDaily\Daily\Daily\bin\Debug\net7.0-windows\Daily.pdb
+D:\ProfitDaily\Daily\Daily\obj\Debug\net7.0-windows\Daily.Form1.resources
+D:\ProfitDaily\Daily\Daily\obj\Debug\net7.0-windows\Daily.csproj.GenerateResource.cache
+D:\ProfitDaily\Daily\Daily\obj\Debug\net7.0-windows\Daily.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProfitDaily\Daily\Daily\obj\Debug\net7.0-windows\Daily.AssemblyInfoInputs.cache
+D:\ProfitDaily\Daily\Daily\obj\Debug\net7.0-windows\Daily.AssemblyInfo.cs
+D:\ProfitDaily\Daily\Daily\obj\Debug\net7.0-windows\Daily.csproj.CoreCompileInputs.cache
+D:\ProfitDaily\Daily\Daily\obj\Debug\net7.0-windows\Daily.dll
+D:\ProfitDaily\Daily\Daily\obj\Debug\net7.0-windows\refint\Daily.dll
+D:\ProfitDaily\Daily\Daily\obj\Debug\net7.0-windows\Daily.pdb
+D:\ProfitDaily\Daily\Daily\obj\Debug\net7.0-windows\Daily.genruntimeconfig.cache
+D:\ProfitDaily\Daily\Daily\obj\Debug\net7.0-windows\ref\Daily.dll
